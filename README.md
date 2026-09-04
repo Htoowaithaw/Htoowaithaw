@@ -9,7 +9,7 @@
  ╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝  ╚══╝╚══╝  ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══╝╚══╝ 
 ```
 
-# 👨‍💻 Just a guy who likes to code (even without getting paid)
+# 👨‍💻 🤖 I code for free, but my cloud infrastructure bills are very real.
 
 **Building cool stuff with code** | Full-stack Dev | Open Source Enthusiast
 
