@@ -9,7 +9,7 @@
  ╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝  ╚══╝╚══╝  ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══╝╚══╝ 
 ```
 
-# 👨‍💻 Htoo Wai Thaw
+# 👨‍💻 Just a guy who likes to code (even without getting paid)
 
 **Building cool stuff with code** | Full-stack Dev | Open Source Enthusiast
 
