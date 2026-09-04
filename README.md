@@ -1,5 +1,14 @@
 <div align="center">
 
+```
+ ████╗ ██╗  ██╗████████╗ █████╗  █████╗ ██╗    ██╗ █████╗ ██╗████████╗██╗  ██╗ █████╗ ██╗    ██╗
+██╔═██╗██║  ██║╚══██╔══╝██╔══██╗██╔══██╗██║    ██║██╔══██╗██║╚══██╔══╝██║  ██║██╔══██╗██║    ██║
+██║ ██║███████║   ██║   ██║  ██║██║  ██║██║ █╗ ██║███████║██║   ██║   ███████║███████║██║ █╗ ██║
+██║ ██║██╔══██║   ██║   ██║  ██║██║  ██║██║███╗██║██╔══██║██║   ██║   ██╔══██║██╔══██║██║███╗██║
+╚█████╔╝██║  ██║   ██║   ╚█████╔╝╚█████╔╝╚███╔███╔╝██║  ██║██║   ██║   ██║  ██║██║  ██║╚███╔███╔╝
+ ╚════╝ ╚═╝  ╚═╝   ╚═╝    ╚════╝  ╚════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ 
+```
+
 # 👨‍💻 Htoo Wai Thaw
 
 **Building cool stuff with code** | Full-stack Dev | Open Source Enthusiast
@@ -40,9 +49,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Htoowaithaw&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=00ff88&text_color=ffffff&icon_color=00ff88)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Htoowaithaw&theme=dark&background=1a1a2e&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://github.com/Htoowaithaw)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htoowaithaw&layout=compact&theme=dark&bg_color=1a1a2e&title_color=00ff88&text_color=ffffff)](https://github.com/Htoowaithaw)
+**📈 Contributions: 250+** | **⭐ Public Repos: 10+** | **🐛 Active**: Always building something
 
 </div>
 
@@ -52,9 +61,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[passport-appointment-checker](https://github.com/Htoowaithaw/passport-appointment-checker)** | Free tool to check Myanmar passport appointments in Singapore | React, Node.js, PostgreSQL |
+| **[community-app](https://github.com/Htoowaithaw/community-app)** | Full-stack community platform for collaboration | React, Node.js, PostgreSQL |
 | **[lfcs-exam-lab](https://github.com/Htoowaithaw/lfcs-exam-lab)** | Linux hands-on practice with 250+ tasks | Shell, Linux |
-| **[learn-passportappt](https://github.com/Htoowaithaw/learn-passportappt)** | Learning resource for the passport checker project | HTML, CSS |
+| **[passport-appointment-checker](https://github.com/Htoowaithaw/passport-appointment-checker)** | Free tool to check Myanmar passport appointments | React, Node.js, PostgreSQL |
 
 ---
 
